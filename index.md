@@ -21,5 +21,4 @@ permalink: /
 
 # Contact
 
-- [Contact](http://gimite.net/en/index.php?Contact)
 - ![](http://gimite.net/images/etc/gmail.png)
