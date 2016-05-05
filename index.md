@@ -5,6 +5,7 @@ permalink: /
 
 My products:
 
-- [Tweet Search Stream](http://tweet-search-stream.gimite.net/)
+- [Tweet Search Stream](http://tweet-search-stream.gimite.net/): Real time twitter search
 - [web-socket-js](https://github.com/gimite/web-socket-js)
 - [google-drive-ruby](https://github.com/gimite/google-drive-ruby)
+- [Mega Reference](http://mega-reference.gimite.net/)
