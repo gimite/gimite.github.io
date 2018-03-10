@@ -4,6 +4,8 @@ permalink: /
 title: namespace gimite
 ---
 
+Software and articles written by Hiroshi Ichikawa (aka. Gimite).
+
 # My products
 
 - [Tweet Search Stream](http://tweet-search-stream.gimite.net/)<br>Real time twitter search
