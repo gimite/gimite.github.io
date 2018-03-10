@@ -69,4 +69,6 @@ layout: page
 
 変体仮名で「生そば」と書かれています。
 
+ちなみにこの変体仮名、2017年にUnicodeに収録されたらしいのですが、それを提案したのはオランダ人だそうです。なぜ…。
+
 出典: [変体仮名 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%A4%89%E4%BD%93%E4%BB%AE%E5%90%8D)
