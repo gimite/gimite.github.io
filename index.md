@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title:
+title: namespace gimite
 ---
 
 # My products
