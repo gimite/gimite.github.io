@@ -32,7 +32,7 @@ layout: page
 
 ちなみに無声音・有声音で対応するのは[p]と[b]なので、その点でもバ行が[b]ならハ行は[p]の方がしっくり来ますね。
 
-出典: [は行音について - 日本語とその周辺](http://www.asahi-net.or.jp/~hi5k-stu/nihongo/hagyou.htm)
+出典: [は行音について - 日本語とその周辺](http://www.asahi-net.or.jp/~hi5k-stu/nihongo/hagyou.htm)、[唇音退化#日本語の唇音退化 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%94%87%E9%9F%B3%E9%80%80%E5%8C%96#%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%AE%E5%94%87%E9%9F%B3%E9%80%80%E5%8C%96)
 
 ## 馬[うま]、梅[うめ]は実は音読み？
 
