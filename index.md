@@ -16,7 +16,7 @@ permalink: /
 - [moji](https://github.com/gimite/moji)<br>A Ruby library for character type classification/conversion for Japanese
 - [gimite-tools](https://github.com/gimite/gimite-tools)<br>Unix commands for my personal use
 
-## Legacy
+# My legacy products
 
 - [Mega Reference](http://mega-reference.gimite.net/)<br>All-in-one programming reference (HTML, JavaScript, Ruby, etc.) with keyword search
 - [Devas](http://gimite.net/en/index.php?Devas)<br>Windows app to search/replace texts
