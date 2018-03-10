@@ -2,6 +2,7 @@
 layout: page
 permalink: /
 title: namespace gimite
+excerpt: Software and articles written by Hiroshi Ichikawa (aka. Gimite).
 ---
 
 Software and articles written by Hiroshi Ichikawa (aka. Gimite).
