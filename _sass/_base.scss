@@ -207,6 +207,12 @@ pre {
 
 
 
+table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+}
+
 table tr {
     background-color: #fff;
     border-top: 1px solid #c6cbd1;
