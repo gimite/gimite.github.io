@@ -51,7 +51,7 @@ a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, ḹ, e, ai, o, au, (a)ṃ, (a)ḥ
 
 ## ひらがなには現在使われている形以外のものが存在した
 
-今でこそ、一つの音に一つのひらがなが対応しているのは当たり前ですよね。でも、明治自体以前はこれがちゃんと統一されておらず、同じ音を表すひらがなが複数存在したようです。このうち、今では使われなくなったものを変体仮名と呼びます。この変体仮名、今でもたまーに使われています。これは見たことがあるはず:
+今でこそ、一つの音に一つのひらがなが対応しているのは当たり前ですよね。でも、明治時代以前はこれがちゃんと統一されておらず、同じ音を表すひらがなが複数存在したようです。このうち、今では使われなくなったものを変体仮名と呼びます。この変体仮名、今でもたまーに使われています。これは見たことがあるはず:
 
 <a title="By nyaa_birdies_perch from Shima Onsen in Nakanojo, Gunma (Flickr) [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASoba_restaurant_by_nyaa_birdies_perch_in_Gunma.jpg"><img width="256" alt="Soba restaurant by nyaa birdies perch in Gunma" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Soba_restaurant_by_nyaa_birdies_perch_in_Gunma.jpg"/></a>
 
