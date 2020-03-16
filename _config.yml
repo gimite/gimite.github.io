@@ -8,7 +8,7 @@
 # Site settings
 title: namespace gimite
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "gimite.github.io" # the base hostname & protocol for your site
+url: "https://gimite.github.io" # the base hostname & protocol for your site
 twitter_username: gimite
 github_username:  gimite
 google_analytics: UA-573829-2
